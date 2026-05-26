@@ -36,3 +36,4 @@ void main()
 <!-- 하이퍼링크 -->
 [유튜브 링크][https://www.youtube.com] <br> <!-- <br> : 개행 -->
 
+<img width="1407" height="1920" alt="Image" src="https://github.com/user-attachments/assets/c1a7efae-3c88-4094-b4de-79f177674ea2" />
