@@ -15,11 +15,9 @@ AGitActor::AGitActor()
 void AGitActor::BeginPlay()
 {
 	Super::BeginPlay();
-<<<<<<< HEAD
+
 	UE_LOG(LogTemp, Warning, TEXT("Test123"));
-=======
-	UE_LOG(LogTemp, Warning, TEXT("Test456"));
->>>>>>> aca17a18571c011d8fa764254cbf67355f5c89d2
+
 }
 
 // Called every frame
